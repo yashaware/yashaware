@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">👋 Hi, I'm Yash Aware<br><br>Data Science Graduate | Python Developer | Machine Learning Enthusiast | AI Explorer</h2>
+<h2 data-importer="text" align="center">👋 Hi, I'm Yash Aware<br><br>Data Science Graduate | Python Developer | Machine Learning Enthusiast | AI Explorer</h2>
 
 ###
 
