@@ -10,6 +10,10 @@
 
 ###
 
+<img data-importer="image" align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnR0ZzNyanQ0M2tvM2h0ZjM0OWM0d3pud2NjY3g1d3owcHZ1bXU4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"  />
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -46,7 +50,9 @@
 
 ###
 
-<img data-importer="image" align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnR0ZzNyanQ0M2tvM2h0ZjM0OWM0d3pud2NjY3g1d3owcHZ1bXU4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif"  />
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/yashaware/yashaware/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -58,11 +64,5 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/yashaware/yashaware/snake-output/snake.svg" alt="Snake animation" />
 
 ###
